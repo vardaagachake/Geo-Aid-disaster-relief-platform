@@ -1,1 +1,1 @@
-# Geo-Aid-disaster-relief-platform
+# GeoAid-CEP
